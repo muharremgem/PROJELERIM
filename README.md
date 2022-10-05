@@ -2,8 +2,6 @@
 
 # Muharrem Gem
 
-# My projects
-
 
 ## HTML CSS
 <hr>
