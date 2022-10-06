@@ -23,7 +23,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Parallax](https://muharremgem.github.io/HTML_CSS_Parallax/)| Html Css  |![Parallax](./images/parallax.gif)
+[Parallax](https://muharremgem.github.io/HTML_CSS_Parallax/)| Html Css  |![Parallax](parallax.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
