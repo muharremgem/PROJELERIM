@@ -54,7 +54,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[SASS_Project](https://muharremgem.github.io/SASS_Project/)| Html Css Sass |![SASS_Project](img/sass.gif)
+[SASS_Project](https://muharremgem.github.io/SASS_Project/)| Html Css Sass |![SASS_Project](sass.gif)
 
 
 
