@@ -38,7 +38,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Team Members Page](https://html-css-js-calculator.vercel.app/)| 7- Team Members Page		 |![Calculator](./img/CALCULATOR.gif)
+[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![TeamMembers](team_members1.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
