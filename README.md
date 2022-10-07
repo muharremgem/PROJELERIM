@@ -18,7 +18,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[3- Google Landig Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 3- Google Landig Page 	 |![Digital_clock](./img/clock.gif)
+[Google_clone](https://muharremgem.github.io/HTML_CSS_Google_clone/)| Html Css  |![Google_clone](./images/google.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
