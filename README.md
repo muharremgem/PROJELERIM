@@ -18,7 +18,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Google_clone](https://muharremgem.github.io/HTML_CSS_Google_clone/)| Html Css  |![Google_clone](./images/google.gif)
+[Google_clone](https://muharremgem.github.io/HTML_CSS_Google_clone/)| Html Css  |![Google_clone](google.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
