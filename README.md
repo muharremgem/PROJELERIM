@@ -86,7 +86,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[6- IOS Calculator](https://html-css-js-calculator.vercel.app/)| 6- IOS Calculator		 |![Calculator](./img/CALCULATOR.gif)
+[Calculator](https://html-css-js-calculator.vercel.app/)| Html Css Js |![Calculator](CALCULATOR.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
