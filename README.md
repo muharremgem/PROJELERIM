@@ -35,7 +35,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Checkout](https://muharremgem.github.io/HTML_CSS_Checkout/)| Html Css  |![Checkout](checkout.gif)
+[Checkout](https://muharremgem.github.io/HTML_CSS_Checkout/)| Html Css  |![Checkout](checkout_app.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
