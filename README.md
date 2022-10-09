@@ -84,7 +84,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[5- Digital Clock](https://www.muharremgem.com/)| 5- Digital Clock	 |![websitem](./img/websitem.gif)
+[Digital_Clock](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| Html Css Js |![Digital_clock](clock.gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
