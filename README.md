@@ -93,7 +93,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Checkout Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 7- Checkout Page	 	 |![Digital_clock](./img/clock.gif)
+[7- Checkout Page](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 7- Checkout Page	 	 |![Checkout](checkout_app.gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
