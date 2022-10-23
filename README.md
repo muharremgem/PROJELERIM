@@ -118,10 +118,9 @@
 :-------------------------|-------------------------|-------------------------
 [Tour_Places](https://reacttourplaces.vercel.app/)| Html Sass Js React | ![tourplaces](tourplaces.gif)
 
-
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[2- Language Cards](https://html-css-js-calculator.vercel.app/)| 2- Language Cards		 |![Calculator](./img/CALCULATOR.gif)
+[Language_Card](https://react-language-cards-seven.vercel.app/)| Js React | ![Language_Card](languageCard.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
