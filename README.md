@@ -30,7 +30,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |![Digital_clock](./img/clock.gif)
+[5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |![Digital_clock](./img/clock.gisf)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
@@ -190,7 +190,4 @@
 :-------------------------|-------------------------|-------------------------
 [7- DJANGO PROJE 7](https://html-css-js-calculator.vercel.app/)| 7- DJANGO PROJE 7	 |![Calculator](./img/CALCULATOR.gif)
 
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[8- DJANGO PROJE 8](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 8- DJANGO PROJE 8	 |![Digital_clock](./img/clock.gif)
+d
