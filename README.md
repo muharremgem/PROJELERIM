@@ -63,9 +63,7 @@
 ## JAVASCRIPT
 <hr>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[1- Find the Number](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 1- Find the Number	 	 |![Digital_clock](./img/clock.gif)
+
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
@@ -73,14 +71,6 @@
 [Todo_list](https://muharremgem.github.io/JavaScript_Todo_list/)| Html Css Js |![Todo_list](Todo_list.gif)
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[3- Hangman Game](https://html-css-js-calculator.vercel.app/)| 3- Hangman Game			 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[4- Lottery Game](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- Lottery Game 	 |![Digital_clock](./img/clock.gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
