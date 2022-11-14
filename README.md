@@ -82,20 +82,10 @@
 :-------------------------|-------------------------|-------------------------
 [7- Checkout Page](https://muharremgem.github.io/JAVASCRIPT_Checkout_Page/)| 7- Checkout Page	 	 |![Checkout](checkout_app.gif)
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[8- Movie Seat App](https://www.muharremgem.com/)| 8- Movie Seat App		 |![websitem](./img/websitem.gif)
-
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[9- Weather App](https://html-css-js-calculator.vercel.app/)| 9- Weather App		 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[10- Other Algorithm Tasks](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 10- Other Algorithm Tasks		 |![Digital_clock](./img/clock.gif)
-
+[weather_App](https://react-alpha-team-weather-hrd5.vercel.app/)| Html Css Js React | ![weather_App](weather.gif)
 
 ## REACT
 <hr>
