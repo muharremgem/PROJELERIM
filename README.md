@@ -126,11 +126,11 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |![Digital_clock](/img/clock.gif)
+[6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |![Digital_clock](gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |![websitem](/img/websitem.gif)
+[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |![websitem](gif)
 
 
 ## DJANGO
@@ -141,36 +141,36 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[1- DJANGO PROJE 1](https://html-css-js-calculator.vercel.app/)| 1- DJANGO PROJE 1	 |![Calculator](./img/CALCULATOR.gif)
+[1- DJANGO PROJE 1](https://html-css-js-calculator.vercel.app/)| 1- DJANGO PROJE 1	 |![Calculator](./img/gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[2- DJANGO PROJE 2 ](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 2- DJANGO PROJE 2 	 |![Digital_clock](./img/clock.gif)
+[2- DJANGO PROJE 2 ](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 2- DJANGO PROJE 2 	 |![Digital_clock](./img/gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[3- DJANGO PROJE 3	](https://html-css-js-calculator.vercel.app/)| 3- DJANGO PROJE 3	 |![Calculator](./img/CALCULATOR.gif)
+[3- DJANGO PROJE 3	](https://html-css-js-calculator.vercel.app/)| 3- DJANGO PROJE 3	 |![Calculator](./img/.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[4- DJANGO PROJE 4](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- DJANGO PROJE 4	 |![Digital_clock](./img/clock.gif)
+[4- DJANGO PROJE 4](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 4- DJANGO PROJE 4	 |![Digital_clock](./img/.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[5- DJANGO PROJE 5](https://html-css-js-calculator.vercel.app/)| 5- DJANGO PROJE 5	 |![Calculator](./img/CALCULATOR.gif)
+[5- DJANGO PROJE 5](https://html-css-js-calculator.vercel.app/)| 5- DJANGO PROJE 5	 |![Calculator](./img/.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[6- DJANGO PROJE 6](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- DJANGO PROJE 6 	 |![Digital_clock](./img/clock.gif)
+[6- DJANGO PROJE 6](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- DJANGO PROJE 6 	 |![Digital_clock](./img/gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- DJANGO PROJE 7](https://html-css-js-calculator.vercel.app/)| 7- DJANGO PROJE 7	 |![Calculator](./img/CALCULATOR.gif)
+[7- DJANGO PROJE 7](https://html-css-js-calculator.vercel.app/)| 7- DJANGO PROJE 7	 |![Calculator](./img/Cgif)
 
 d
