@@ -53,7 +53,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[SASS_Project](https://muharremgem.github.io/SASS_Project/)| Html Css Sass |![SASS_Project](sass.gif)
+[SASS_Project](https://muharremgem.github.io/SASS_Project/)| Html Css Sass |![SASS_Project](img/sass.gif)
 
 
 
@@ -65,27 +65,27 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Todo_list](https://muharremgem.github.io/JavaScript_Todo_list/)| Html Css Js |![Todo_list](Todo_list.gif)
+[Todo_list](https://muharremgem.github.io/JavaScript_Todo_list/)| Html Css Js |![Todo_list](img/Todo_list.gif)
 
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Digital_Clock](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| Html Css Js |![Digital_clock](clock.gif)
+[Digital_Clock](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| Html Css Js |![Digital_clock](img/clock.gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Calculator](https://html-css-js-calculator.vercel.app/)| Html Css Js |![Calculator](CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[7- Checkout Page](https://muharremgem.github.io/JAVASCRIPT_Checkout_Page/)| 7- Checkout Page	 	 |![Checkout](checkout_app.gif)
+[Calculator](https://html-css-js-calculator.vercel.app/)| Html Css Js |![Calculator](img/CALCULATOR.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[weather_App](https://react-alpha-team-weather-hrd5.vercel.app/)| Html Css Js React | ![weather_App](weather.gif)
+[7- Checkout Page](https://muharremgem.github.io/JAVASCRIPT_Checkout_Page/)| 7- Checkout Page	 	 |![Checkout](img/checkout_app.gif)
+
+
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[weather_App](https://react-alpha-team-weather-hrd5.vercel.app/)| Html Css Js React | ![weather_App](img/weather.gif)
 
 ## REACT
 <hr>
@@ -93,17 +93,17 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Tour_Places](https://reacttourplaces.vercel.app/)| Html Sass Js React | ![tourplaces](tourplaces.gif)
+[Tour_Places](https://reacttourplaces.vercel.app/)| Html Sass Js React | ![tourplaces](img/tourplaces.gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Language_Card](https://react-language-cards-seven.vercel.app/)| Js React | ![Language_Card](languageCard.gif)
+[Language_Card](https://react-language-cards-seven.vercel.app/)| Js React | ![Language_Card](img/languageCard.gif)
 
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Random_user_app](https://react-random-user-app.vercel.app/)| Js React | ![Random_user_app](userApp.gif)
+[Random_user_app](https://react-random-user-app.vercel.app/)| Js React | ![Random_user_app](img/userApp.gif)
 
 
 
@@ -115,22 +115,22 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Recipe_App](https://react-recipe-app-muharremgem.vercel.app/)| Js React Tailwind | ![Task Tracker](recipe.gif)
+[Recipe_App](https://react-recipe-app-muharremgem.vercel.app/)| Js React Tailwind | ![Task Tracker](img/recipe.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[fire_contact](https://firecontact-app-roan.vercel.app/)| Js React firebase | ![fire_contact](contact.gif)
+[fire_contact](https://firecontact-app-roan.vercel.app/)| Js React firebase | ![fire_contact](img/contact.gif)
 
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |![Digital_clock](./img/clock.gif)
+[6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 6- Movie App		 |![Digital_clock](/img/clock.gif)
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |![websitem](./img/websitem.gif)
+[7- Blog App](https://www.muharremgem.com/)| 7- Blog App	 |![websitem](/img/websitem.gif)
 
 
 ## DJANGO
