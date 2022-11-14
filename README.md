@@ -10,44 +10,44 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Survey Form](https://muharremgem.github.io/HTML_CSS_Survey_form/)| Html Css  |![Survey Form](surveyform.gif)
+[Survey Form](https://muharremgem.github.io/HTML_CSS_Survey_form/)| Html Css  |![Survey Form](img/surveyform.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Netflix_clone](https://muharremgem.github.io/HTML_CSS_Netflix_clone/)| Html Css  |![netflix](netflix1.gif)
+[Netflix_clone](https://muharremgem.github.io/HTML_CSS_Netflix_clone/)| Html Css  |![netflix](img/netflix1.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Google_clone](https://muharremgem.github.io/HTML_CSS_Google_clone/)| Html Css  |![Google_clone](google.gif)
+[Google_clone](https://muharremgem.github.io/HTML_CSS_Google_clone/)| Html Css  |![Google_clone](img/google.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Parallax](https://muharremgem.github.io/HTML_CSS_Parallax/)| Html Css  |![Parallax](parallax.gif)
+[Parallax](https://muharremgem.github.io/HTML_CSS_Parallax/)| Html Css  |![Parallax](img/parallax.gif)
 
 
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Checkout](https://muharremgem.github.io/HTML_CSS_Checkout/)| Html Css  |![Checkout](checkout_app.gif)
+[Checkout](https://muharremgem.github.io/HTML_CSS_Checkout/)| Html Css  |![Checkout](img/checkout_app.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![TeamMembers](team_members1.gif)
+[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![TeamMembers](img/team_members1.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[WebPage](https://bootstrap-web-page.vercel.app/#)| Html Css Bootstrap |![WebPage](webpage.gif)
+[WebPage](https://bootstrap-web-page.vercel.app/#)| Html Css Bootstrap |![WebPage](img/webpage.gif)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Bootsrap School Webseite](https://muharremgem.github.io/BOOTSTRAP_project/)| Html Css Bootstrap |![Bootsrap School Webseite](project.gif)
+[Bootsrap School Webseite](https://muharremgem.github.io/BOOTSTRAP_project/)| Html Css Bootstrap |![Bootsrap School Webseite](img/project.gif)
 
 
 
