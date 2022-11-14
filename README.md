@@ -28,9 +28,6 @@
 [Parallax](https://muharremgem.github.io/HTML_CSS_Parallax/)| Html Css  |![Parallax](parallax.gif)
 
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[5- Clarusway Website Design](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/)| 5- Clarusway Website Design		 |![Digital_clock](./img/clock.gisf)
 
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
