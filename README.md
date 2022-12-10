@@ -100,8 +100,8 @@
 
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
-| [Fire_Blog App](https://fireblog-app-muharremgem.vercel.app/) |                       | ![blogApp](img/blogApp.gif)         |
+| [Fire_Blog App](https://fireblog-app-muharremgem.vercel.app/) | Firebase React            | ![blogApp](img/blogApp.gif)         |
 
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
-| [Typescript_todo](https://typescript-todo-weld.vercel.app/) |                      | ![typescript](img/type_todo.gif)         |
+| [Typescript_todo](https://typescript-todo-weld.vercel.app/) | TypeScript  React           | ![typescript](img/type_todo.gif)         |
