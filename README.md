@@ -96,11 +96,11 @@
 
 | Project Name                                                                       | Libraries and Technologies I use | How does my project look |
 | :--------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
-| [Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/) | 6- Movie App                     | ![Digital_clock](gif)    |
+| [Movie App](.......) | 6- Movie App                     | ![Digital_clock](gif)    |
 
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
-| [Fire_Blog App](https://fireblog-app-muharremgem.vercel.app/) | Firebase React            | ![blogApp](img/blogApp.gif)         |
+| [Fire_Blog App](https://fireblog-app-muharremgem.vercel.app/) | Firebase React            | ![blogApp](img/blogApp.gif)           |
 
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
