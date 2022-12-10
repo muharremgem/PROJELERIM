@@ -72,7 +72,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[linkedin_recruiter_list](https://recruiter-lists.vercel.app/)| Js React Tailwind | ![linkedin_recruiter_list](recruiter.gif)
+[linkedin_recruiter_list](https://recruiter-lists.vercel.app/)| Js React Tailwind | ![linkedin_recruiter_list](img/recruiter.gif)
 
 | Project Name                                       | Libraries and Technologies I use | How does my project look          |
 | :------------------------------------------------- | -------------------------------- | --------------------------------- |
