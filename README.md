@@ -100,6 +100,6 @@
 
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
-| [7- Blog App](https://fireblog-app-muharremgem.vercel.app/) | 7- Blog App                      | ![blogApp](img/contact.gif)         |
+| [7- Blog App](https://fireblog-app-muharremgem.vercel.app/) | 7- Blog App                      | ![blogApp](img/blogApp.gif)         |
 
 
