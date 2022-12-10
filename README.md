@@ -105,3 +105,8 @@
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
 | [Typescript_todo](https://typescript-todo-weld.vercel.app/) | TypeScript  React           | ![typescript](img/type_todo.gif)         |
+
+| Project Name                                | Libraries and Technologies I use | How does my project look |
+| :------------------------------------------ | -------------------------------- | ------------------------ |
+| [YouTube_clone](https://youtube-clone-lovat.vercel.app/) | TypeScript  React            | ![youtube](img/youtube.gif)         |
+
