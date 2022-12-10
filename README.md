@@ -96,10 +96,12 @@
 
 | Project Name                                                                       | Libraries and Technologies I use | How does my project look |
 | :--------------------------------------------------------------------------------- | -------------------------------- | ------------------------ |
-| [6- Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/) | 6- Movie App                     | ![Digital_clock](gif)    |
+| [Movie App](https://javascript-digital-clock-24akepg2y-muharremgem.vercel.app/) | 6- Movie App                     | ![Digital_clock](gif)    |
 
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
-| [7- Blog App](https://fireblog-app-muharremgem.vercel.app/) | 7- Blog App                      | ![blogApp](img/blogApp.gif)         |
+| [Fire_Blog App](https://fireblog-app-muharremgem.vercel.app/) |                       | ![blogApp](img/blogApp.gif)         |
 
-
+| Project Name                                | Libraries and Technologies I use | How does my project look |
+| :------------------------------------------ | -------------------------------- | ------------------------ |
+| [Typescript_todo](https://typescript-todo-weld.vercel.app/) |                      | ![typescript](img/type_todo.gif)         |
