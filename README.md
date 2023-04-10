@@ -2,7 +2,7 @@
 
 # Muharrem Gem
 
-## HTML CSS
+## HTML CSS JS REACT NEXT.JS REACT NATİVE
 
 <hr>
 
@@ -117,4 +117,6 @@
 | Project Name                                | Libraries and Technologies I use | How does my project look |
 | :------------------------------------------ | -------------------------------- | ------------------------ |
 | [Stock_App](https://stock-app-muharremgem.vercel.app/)    | React Redux MUİ             | ![stockapp](img/stockapp.gif)         |
+
+
 
